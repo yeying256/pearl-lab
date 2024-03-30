@@ -1,5 +1,6 @@
 
 I am keen to secure a Visiting Scholar position(Funded by the Chinese Scholarship Council (CSC), and holding a certified English proficiency qualification) within your team, commencing from either December 2024 or 2025, for a period of two years. During this tenure, I aspire to engage in extensive research work focused on motion planning and manipulation skill development for mobile manipulator. 
+The reason why I plan to join your team in December this year is that I intend to utilize the period leading up to that month for preparatory studies and honing my paper writing skills. This approach will facilitate a smoother transition and enable me to contribute effectively and efficiently from the onset of my tenure within your team.
 
 # Research interests
 Impedance Control of Mobile Manipulators 
