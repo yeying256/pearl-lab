@@ -45,8 +45,8 @@ https://www.bilibili.com/video/BV1tF4m1F7Ws/
 ```
 
 # Competition
-ROBOCON			                  National First Prize
-ROBOCON			                  Provincial First Prize 
+ROBOCON			                  National First Prize\\
+ROBOCON			                  Provincial First Prize\\ 
 Traffic science			          National Third Prize
 Challenge Cup 			          Provincial First Prize
 Huawei Embedded Competition 	National Third Prize
