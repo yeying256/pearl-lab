@@ -44,4 +44,15 @@ Motion plan
 https://www.bilibili.com/video/BV1tF4m1F7Ws/
 ```
 
+# Competition
+ROBOCON			                  National First Prize
+ROBOCON			                  Provincial First Prize 
+Traffic science			          National Third Prize
+Challenge Cup 			          Provincial First Prize
+Huawei Embedded Competition 	National Third Prize
+Intelligent Transportation 		National Third Prize
+Internet Plus			            Provincial Second Prize
+Energy Conservation		        National Third Prize
+All other minor awards are detailed in the attached document 
+
 Please consider my application for this opportunity, and I look forward to the possibility of collaborating with your team to advance cutting-edge research in the field of robotics.
